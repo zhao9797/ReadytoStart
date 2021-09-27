@@ -112,6 +112,7 @@ Deep Learning （花书）
 ### 4. **编程练习**
 
 * Pytorch(不限于单一框架)搭建深度神经网络模型(github上有许多入门相关的资料)
+  * 比如：[https://github.com/graykode/nlp-tutorial](https://github.com/graykode/nlp-tutorial)
 * 了解自动微分机制、[了解pytorch中autograd包]
 * 无论是框架还是工具包遇到问题->多查官方文档、网上搜索相关问题
 
