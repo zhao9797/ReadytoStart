@@ -6,7 +6,7 @@
 
 * 参考：[https://github.com/iyuge2/Student](https://github.com/iyuge2/Student)
 
-* 掌握linux常用命令: 包括不限于：cat、ls、touch、du、top、mkdir等等等
+* 掌握linux常用命令
 
 * 掌握debug调试技巧
 
