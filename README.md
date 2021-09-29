@@ -74,7 +74,7 @@ Deep Learning （花书）
 * B站的资源就很丰富
   * 吴恩达机器学习课程
   * 李宏毅机器学习课程
-  * 白板推导--[[github]](https://github.com/shuhuai007/Machine-Learning-Session)[B站](https://www.bilibili.com/video/BV1aE411o7qd?spm_id_from=333.999.0.0)
+  * 白板推导--[[github]](https://github.com/shuhuai007/Machine-Learning-Session)[[B站]](https://www.bilibili.com/video/BV1aE411o7qd?spm_id_from=333.999.0.0)
 
 **重点掌握**：logitc 回归、贝叶斯分类、SVM 、决策树、k 近邻、k-means 、PCA
 
@@ -108,7 +108,7 @@ Deep Learning （花书）
   * 吴恩达深度学习课程
   * 李宏毅深度学习课程
   * 斯坦福的深度学习课程
-  * 白板推导[B站](https://www.bilibili.com/video/BV1NE411B7R9?spm_id_from=333.999.0.0)
+  * 白板推导[[B站]](https://www.bilibili.com/video/BV1NE411B7R9?spm_id_from=333.999.0.0)
   * 吴恩达的《深度学习工程师》课程: 可以在网易云课堂上搜到，作业练习在github上可以搜到
 
 ### 4. **编程练习**
