@@ -80,7 +80,7 @@ Deep Learning （花书）
 
 **了解使用**：GBDT、XGBoost 、随机森林
 
-**实战推荐：** kaggle中的入门竞赛（练习pandas数据处理、可视化分析、sklearn中机器学习算法、xgboost使用）
+**实战推荐：** [kaggle](https://www.kaggle.com/)中的入门竞赛（练习pandas数据处理、可视化分析、sklearn中机器学习算法、xgboost使用）
 
 ---
 
@@ -105,7 +105,7 @@ Deep Learning （花书）
 * 斯坦福的深度学习课程
 * 斯坦福的自然语言处理课程
 * B站的资源就很丰富
-  * 吴恩达深度学习课程
+  * 吴恩达深度学习课程[[B站]](https://www.bilibili.com/video/BV1FT4y1E74V?from=search&seid=8163672642026328774&spm_id_from=333.337.0.0)[[中文笔记]](https://github.com/fengdu78/deeplearning_ai_books)
   * 李宏毅深度学习课程
   * 斯坦福的深度学习课程
   * 白板推导[[B站]](https://www.bilibili.com/video/BV1NE411B7R9?spm_id_from=333.999.0.0)
