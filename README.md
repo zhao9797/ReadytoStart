@@ -69,8 +69,8 @@ Deep Learning （花书）
 
 ### 3. 机器学习相关资料推荐（善用搜索，互联网资源很丰富、要有内驱力的主动学习）：
 
-* 周志华->机器学习
-* 李航->统计机器学习
+* 周志华->机器学习[[南瓜书]](https://datawhalechina.github.io/pumpkin-book/#/)
+* 李航->统计机器学习[[代码实现]](https://github.com/fengdu78/lihang-code)
 * B站的资源就很丰富
   * 吴恩达机器学习课程[[B站]](https://www.bilibili.com/video/BV164411b7dx?from=search&seid=13910365614290148207&spm_id_from=333.337.0.0)
   * 李宏毅机器学习课程[[B站]](https://www.bilibili.com/video/BV1Wv411h7kN?from=search&seid=15821665321591472482&spm_id_from=333.337.0.0)
