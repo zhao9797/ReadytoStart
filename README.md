@@ -74,7 +74,7 @@ Deep Learning （花书）
 * B站的资源就很丰富
   * 吴恩达机器学习课程
   * 李宏毅机器学习课程
-  * 白板推导
+  * 白板推导[github](https://github.com/shuhuai007/Machine-Learning-Session)[B站](https://www.bilibili.com/video/BV1aE411o7qd?spm_id_from=333.999.0.0)
 
 **重点掌握**：logitc 回归、贝叶斯分类、SVM 、决策树、k 近邻、k-means 、PCA
 
@@ -108,7 +108,7 @@ Deep Learning （花书）
   * 吴恩达深度学习课程
   * 李宏毅深度学习课程
   * 斯坦福的深度学习课程
-  * 白板推导
+  * 白板推导[B站](https://www.bilibili.com/video/BV1NE411B7R9?spm_id_from=333.999.0.0)
   * 吴恩达的《深度学习工程师》课程: 可以在网易云课堂上搜到，作业练习在github上可以搜到
 
 ### 4. **编程练习**
@@ -116,6 +116,7 @@ Deep Learning （花书）
 * Pytorch(不限于单一框架)搭建深度神经网络模型(github上有许多入门相关的资料)
   * 比如：[https://github.com/graykode/nlp-tutorial](https://github.com/graykode/nlp-tutorial)
   * 动手学深度学习[https://github.com/ShusenTang/Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
+  * NLP入门练习[https://github.com/Alic-yuan/nlp-beginner-finish](https://github.com/Alic-yuan/nlp-beginner-finish)
 * 了解自动微分机制、[了解pytorch中autograd包]
 * 无论是框架还是工具包遇到问题->多查官方文档、网上搜索相关问题
 
