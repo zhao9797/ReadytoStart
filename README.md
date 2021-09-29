@@ -101,16 +101,14 @@ Deep Learning （花书）
 
 ### 3. 深度学习相关资料推荐（善用搜索，互联网资源很丰富、要有内驱力的主动学习）
 
-* 邱锡鹏->《神经网络与深度学习》
-* 斯坦福的深度学习课程
-* 斯坦福的自然语言处理课程
+* 邱锡鹏->[《神经网络与深度学习》](https://nndl.github.io/)
+* 斯坦福的计算机视觉课程 [[CS231n官网]](http://cs231n.stanford.edu/) [[B站]](https://www.bilibili.com/video/BV1nJ411z7fe?from=search&seid=7693188340405873083&spm_id_from=333.337.0.0)
+* 斯坦福的自然语言处理课程 [[CS224n官网]](http://web.stanford.edu/class/cs224n/) [[B站]](https://www.bilibili.com/video/BV1pt411h7aT?from=search&seid=12197931986985463003&spm_id_from=333.337.0.0)
 * B站的资源就很丰富
   * 吴恩达深度学习课程[[B站]](https://www.bilibili.com/video/BV1FT4y1E74V?from=search&seid=8163672642026328774&spm_id_from=333.337.0.0)[[中文笔记]](https://github.com/fengdu78/deeplearning_ai_books)
-  * 李宏毅深度学习课程
-  * 斯坦福的深度学习课程
+  * 李宏毅深度学习课程[[B站]](https://www.bilibili.com/video/BV1JE411g7XF?from=search&seid=13476707935571595909&spm_id_from=333.337.0.0)
   * 白板推导[[B站]](https://www.bilibili.com/video/BV1NE411B7R9?spm_id_from=333.999.0.0)
-  * 吴恩达的《深度学习工程师》课程: 可以在网易云课堂上搜到，作业练习在github上可以搜到
-
+  * 吴恩达的《深度学习工程师》课程: [[网易云课堂]](https://mooc.study.163.com/smartSpec/detail/1001319001.htm)，[[作业练习]](https://github.com/AlbertHG/Coursera-Deep-Learning-deeplearning.ai)
 ### 4. **编程练习**
 
 * Pytorch(不限于单一框架)搭建深度神经网络模型(github上有许多入门相关的资料)
