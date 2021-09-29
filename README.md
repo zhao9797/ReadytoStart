@@ -72,7 +72,7 @@ Deep Learning （花书）
 * 周志华->机器学习
 * 李航->统计机器学习
 * B站的资源就很丰富
-  * 吴恩达机器学习课程
+  * 吴恩达机器学习课程[[B站]](https://www.bilibili.com/video/BV164411b7dx?from=search&seid=13910365614290148207&spm_id_from=333.337.0.0)
   * 李宏毅机器学习课程[[B站]](https://www.bilibili.com/video/BV1Wv411h7kN?from=search&seid=15821665321591472482&spm_id_from=333.337.0.0)
   * 白板推导--[[github]](https://github.com/shuhuai007/Machine-Learning-Session)[[B站]](https://www.bilibili.com/video/BV1aE411o7qd?spm_id_from=333.999.0.0)
 
