@@ -4,6 +4,8 @@
 
 * 掌握：linux、git、vscode(或者pycharm)等基础
 
+  * [[git在线练习]](https://learngitbranching.js.org)
+
 * 参考：[https://github.com/iyuge2/Student](https://github.com/iyuge2/Student)
 
 * 掌握linux常用命令
