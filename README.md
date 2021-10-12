@@ -99,6 +99,8 @@
   * 比如：[https://github.com/graykode/nlp-tutorial](https://github.com/graykode/nlp-tutorial)
   * 动手学深度学习[https://github.com/ShusenTang/Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
   * NLP入门练习[https://github.com/Alic-yuan/nlp-beginner-finish](https://github.com/Alic-yuan/nlp-beginner-finish)
+  * 阿里天池大赛[https://tianchi.aliyun.com/competition/gameList/algorithmList](https://tianchi.aliyun.com/competition/gameList/algorithmList)
+  * 百度飞桨比赛[https://aistudio.baidu.com/aistudio/competition](https://aistudio.baidu.com/aistudio/competition)
 * 了解自动微分机制、[了解pytorch中autograd包]
 * 无论是框架还是工具包遇到问题->多查官方文档、网上搜索相关问题
 
